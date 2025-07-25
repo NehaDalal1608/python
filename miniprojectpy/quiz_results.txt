@@ -1,0 +1,7 @@
+Name: neha dalal, Correct: 10, Wrong: 0
+Name: Diksha, Correct: 8, Wrong: 2
+Name: swara, Correct: 8, Wrong: 2
+Name: suvarna, Correct: 8, Wrong: 2
+Name: aarya, Correct: 7, Wrong: 3
+Name: shravani, Correct: 10, Wrong: 0
+Name: nitin, Correct: 7, Wrong: 3
