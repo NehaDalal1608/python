@@ -1,0 +1,7 @@
+this is the example file.
+My name is neha.
+I am from satara.
+I am studying in dypcet.
+I am in third year.appending this line to the file:
+i am in CSE branch:
+i am in CSE branch:
